@@ -1,0 +1,9 @@
+__pycache__
+gitd.egg-info/
+
+# Testing
+.gitd/
+
+# Pycharm
+.idea/
+.venv/
